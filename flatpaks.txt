@@ -10,7 +10,6 @@ com.raggesilver.BlackBox
 com.spotify.Client
 fr.handbrake.ghb
 fr.romainvigier.MetadataCleaner
-io.kopia.KopiaUI
 org.chromium.Chromium
 org.cryptomator.Cryptomator
 org.gimp.GIMP
