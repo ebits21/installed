@@ -25,5 +25,6 @@ org.libreoffice.LibreOffice
 org.mozilla.Thunderbird
 org.mozilla.firefox
 org.qbittorrent.qBittorrent
+org.raspberrypi.rpi-imager
 org.standardnotes.standardnotes
 org.videolan.VLC
