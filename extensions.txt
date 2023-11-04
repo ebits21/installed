@@ -1,0 +1,11 @@
+apps-menu@gnome-shell-extensions.gcampax.github.com
+launch-new-instance@gnome-shell-extensions.gcampax.github.com
+places-menu@gnome-shell-extensions.gcampax.github.com
+trayIconsReloaded@selfmade.pl
+drive-menu@gnome-shell-extensions.gcampax.github.com
+just-perfection-desktop@just-perfection
+caffeine@patapon.info
+auto-activities@CleoMenezesJr.github.io
+dash-to-dock@micxgx.gmail.com
+arcmenu@arcmenu.com
+blur-my-shell@aunetx
