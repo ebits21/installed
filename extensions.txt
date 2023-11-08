@@ -1,0 +1,5 @@
+CoverflowAltTab@palatis.blogspot.com
+tiling-assistant@leleat-on-github
+apps-menu@gnome-shell-extensions.gcampax.github.com
+launch-new-instance@gnome-shell-extensions.gcampax.github.com
+places-menu@gnome-shell-extensions.gcampax.github.com
