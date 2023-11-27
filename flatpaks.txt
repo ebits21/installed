@@ -1,6 +1,7 @@
 com.calibre_ebook.calibre
 com.github.PintaProject.Pinta
 com.github.flxzt.rnote
+com.github.iwalton3.jellyfin-media-player
 com.github.jeromerobert.pdfarranger
 com.github.tchx84.Flatseal
 com.github.xournalpp.xournalpp
