@@ -15,6 +15,7 @@ io.podman_desktop.PodmanDesktop
 org.chromium.Chromium
 org.cryptomator.Cryptomator
 org.gimp.GIMP
+org.gnome.Boxes
 org.gnome.Loupe
 org.gnome.Mines
 org.gnucash.GnuCash
