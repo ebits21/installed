@@ -26,6 +26,7 @@ org.kde.okular
 org.keepassxc.KeePassXC
 org.ksnip.ksnip
 org.libreoffice.LibreOffice
+org.localsend.localsend_app
 org.mozilla.Thunderbird
 org.mozilla.firefox
 org.onlyoffice.desktopeditors
