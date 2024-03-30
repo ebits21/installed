@@ -8,6 +8,7 @@ com.github.xournalpp.xournalpp
 com.mattjakeman.ExtensionManager
 com.raggesilver.BlackBox
 com.spotify.Client
+com.visualstudio.code
 fr.handbrake.ghb
 io.github.flattool.Warehouse
 io.podman_desktop.PodmanDesktop
