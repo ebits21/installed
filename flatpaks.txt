@@ -1,3 +1,4 @@
+ar.xjuan.Cambalache
 com.calibre_ebook.calibre
 com.github.PintaProject.Pinta
 com.github.flxzt.rnote
