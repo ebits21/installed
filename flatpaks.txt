@@ -6,7 +6,6 @@ com.github.jeromerobert.pdfarranger
 com.github.tchx84.Flatseal
 com.github.xournalpp.xournalpp
 com.mattjakeman.ExtensionManager
-com.raggesilver.BlackBox
 com.spotify.Client
 com.visualstudio.code
 fr.handbrake.ghb
