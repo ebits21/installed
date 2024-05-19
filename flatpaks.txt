@@ -1,4 +1,5 @@
 com.calibre_ebook.calibre
+com.github.Murmele.Gittyup
 com.github.PintaProject.Pinta
 com.github.flxzt.rnote
 com.github.iwalton3.jellyfin-media-player
