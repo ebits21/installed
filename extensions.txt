@@ -1,0 +1,15 @@
+arcmenu@arcmenu.com
+auto-activities@CleoMenezesJr.github.io
+BingWallpaper@ineffable-gmail.com
+CoverflowAltTab@palatis.blogspot.com
+drive-menu@gnome-shell-extensions.gcampax.github.com
+just-perfection-desktop@just-perfection
+trayIconsReloaded@selfmade.pl
+blur-my-shell@aunetx
+caffeine@patapon.info
+dash-to-dock@micxgx.gmail.com
+tilingshell@ferrarodomenico.com
+apps-menu@gnome-shell-extensions.gcampax.github.com
+gsconnect@andyholmes.github.io
+launch-new-instance@gnome-shell-extensions.gcampax.github.com
+places-menu@gnome-shell-extensions.gcampax.github.com
