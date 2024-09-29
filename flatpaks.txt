@@ -18,7 +18,6 @@ io.github.nroduit.Weasis
 io.podman_desktop.PodmanDesktop
 md.obsidian.Obsidian
 net.nokyan.Resources
-org.chromium.Chromium
 org.cryptomator.Cryptomator
 org.gimp.GIMP
 org.gnome.Boxes
