@@ -14,6 +14,7 @@ com.visualstudio.code
 fr.handbrake.ghb
 io.github.flattool.Warehouse
 io.github.nroduit.Weasis
+io.github.zen_browser.zen
 io.podman_desktop.PodmanDesktop
 md.obsidian.Obsidian
 net.nokyan.Resources
