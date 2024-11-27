@@ -8,8 +8,6 @@ git commit -m "Update Flatpak List $(date)"
 
 gnome-extensions list --enabled > /var/home/eric/.dotfiles/installed/extensions.txt
 
-sleep 30s
-
 git add extensions.txt
 git commit -m "Update Gnome Extensions List $(date)"
 
