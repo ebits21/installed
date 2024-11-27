@@ -8,6 +8,7 @@ com.github.jeromerobert.pdfarranger
 com.github.tchx84.Flatseal
 com.github.xournalpp.xournalpp
 com.google.Chrome
+com.jeffser.Alpaca
 com.mattjakeman.ExtensionManager
 com.spotify.Client
 com.visualstudio.code
