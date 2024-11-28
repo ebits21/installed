@@ -24,7 +24,6 @@ org.gimp.GIMP
 org.gnome.Boxes
 org.gnome.Loupe
 org.gnome.Mines
-org.gnome.gitlab.Cowsay
 org.gnucash.GnuCash
 org.kde.digikam
 org.kde.konversation
