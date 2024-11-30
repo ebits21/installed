@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/bash
 brew bundle dump --file=/var/home/eric/.dotfiles/installed/brewfile.txt --force
 
 cd /var/home/eric/.dotfiles/installed/
