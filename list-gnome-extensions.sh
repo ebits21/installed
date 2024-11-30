@@ -8,3 +8,5 @@ cd /var/home/eric/.dotfiles/installed/
 git add *
 git commit -m "Update Gnome Extensions List $(date)"
 git push -u origin main
+
+exit 0;
