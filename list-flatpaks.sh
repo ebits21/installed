@@ -1,5 +1,3 @@
-#!/usr/bin/bash
-
 flatpak list --columns=application,origin --app | grep "flathub" | awk '{print $1}' > /var/home/eric/.dotfiles/installed/flatpaks.txt
 
 cd /var/home/eric/.dotfiles/installed/

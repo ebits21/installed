@@ -1,8 +1,6 @@
-#!/usr/bin/bash
-
 gnome-extensions list --enabled > /var/home/eric/.dotfiles/installed/gnome-extensions.txt
 
-sleep 30s
+sleep 40s
 
 cd /var/home/eric/.dotfiles/installed/
 git add *
