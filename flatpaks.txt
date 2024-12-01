@@ -39,5 +39,4 @@ org.onlyoffice.desktopeditors
 org.qbittorrent.qBittorrent
 org.raspberrypi.rpi-imager
 org.standardnotes.standardnotes
-org.stellarium.Stellarium
 org.videolan.VLC
