@@ -10,7 +10,6 @@ dash-to-dock@micxgx.gmail.com
 tilingshell@ferrarodomenico.com
 auto-adwaita-colors@celiopy
 extension-list@tu.berry
-system-monitor@gnome-shell-extensions.gcampax.github.com
 appindicatorsupport@rgcjonas.gmail.com
 apps-menu@gnome-shell-extensions.gcampax.github.com
 gsconnect@andyholmes.github.io
