@@ -1,5 +1,5 @@
 
-brew bundle dump --file=/var/home/eric/.dotfiles/installed/brewfile.txt --force
+brew bundle dump --file=/var/home/eric/.dotfiles/installed/Brewfile --force
 
 cd /var/home/eric/.dotfiles/installed/
 git add *
