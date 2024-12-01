@@ -1,1 +1,1 @@
-/var/home/eric/.dotfiles/installed/list-brewfiles.sh: line 2: brew: command not found
+Error: Failure while executing; `brew services list` exited with 127. Here's the output:
