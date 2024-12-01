@@ -1,5 +1,5 @@
 
-brew bundle dump --file=/var/home/eric/.dotfiles/installed/Brewfile --force
+brew bundle dump --force --file=/var/home/eric/.dotfiles/installed/Brewfile
 
 git add /var/home/eric/.dotfiles/installed/Brewfile
 git commit -m "Update Brewfile list $(date)"
