@@ -1,0 +1,1 @@
+Error: Failure while executing; `brew services list` exited with 127. Here's the output:
