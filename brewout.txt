@@ -1,0 +1,1 @@
+/var/home/eric/.dotfiles/installed/list-brewfiles.sh: line 2: brew: command not found
