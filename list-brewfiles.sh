@@ -1,5 +1,5 @@
 
-brew bundle dump --force --file=/var/home/eric/.dotfiles/installed/Brewfile
+brew bundle dump --force --file=/var/home/eric/.dotfiles/installed/Brewfile 2>&1 | logger
 
 cd /var/home/eric/.dotfiles/installed
 git add Brewfile
