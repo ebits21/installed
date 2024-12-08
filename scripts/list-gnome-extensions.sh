@@ -1,4 +1,4 @@
-gnome-extensions list --enabled > /var/home/eric/.dotfiles/installed/data/gnome-extensions.txt
+gnome-extensions list --enabled | sort > /var/home/eric/.dotfiles/installed/data/gnome-extensions.txt
 
 sleep 40s
 
