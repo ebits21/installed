@@ -9,6 +9,7 @@ caffeine@patapon.info
 dash-to-dock@micxgx.gmail.com
 tilingshell@ferrarodomenico.com
 auto-adwaita-colors@celiopy
+extension-list@tu.berry
 appindicatorsupport@rgcjonas.gmail.com
 apps-menu@gnome-shell-extensions.gcampax.github.com
 gsconnect@andyholmes.github.io
