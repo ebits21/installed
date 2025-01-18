@@ -3,7 +3,6 @@ apps-menu@gnome-shell-extensions.gcampax.github.com
 arcmenu@arcmenu.com
 auto-activities@CleoMenezesJr.github.io
 auto-adwaita-colors@celiopy
-BingWallpaper@ineffable-gmail.com
 blur-my-shell@aunetx
 caffeine@patapon.info
 CoverflowAltTab@palatis.blogspot.com
