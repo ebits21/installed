@@ -12,6 +12,7 @@ extension-list@tu.berry
 gsconnect@andyholmes.github.io
 just-perfection-desktop@just-perfection
 launch-new-instance@gnome-shell-extensions.gcampax.github.com
+picture-of-the-day@swsnr.de
 places-menu@gnome-shell-extensions.gcampax.github.com
 tailscale@joaophi.github.com
 tilingshell@ferrarodomenico.com
