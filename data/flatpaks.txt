@@ -18,6 +18,7 @@ io.github.flattool.Warehouse
 io.github.nroduit.Weasis
 io.podman_desktop.PodmanDesktop
 md.obsidian.Obsidian
+net.code_industry.MasterPDFEditor
 net.nokyan.Resources
 org.cryptomator.Cryptomator
 org.gimp.GIMP
