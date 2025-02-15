@@ -27,6 +27,7 @@ org.gnome.Loupe
 org.gnome.Mines
 org.gnucash.GnuCash
 org.kde.digikam
+org.kde.dolphin
 org.kde.konversation
 org.kde.kpat
 org.kde.okular
