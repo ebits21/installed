@@ -20,6 +20,7 @@ io.podman_desktop.PodmanDesktop
 md.obsidian.Obsidian
 net.code_industry.MasterPDFEditor
 net.nokyan.Resources
+org.audacityteam.Audacity
 org.cryptomator.Cryptomator
 org.gimp.GIMP
 org.gnome.Boxes
@@ -37,6 +38,7 @@ org.localsend.localsend_app
 org.mozilla.Thunderbird
 org.mozilla.firefox
 org.onlyoffice.desktopeditors
+org.pulseaudio.pavucontrol
 org.qbittorrent.qBittorrent
 org.raspberrypi.rpi-imager
 org.standardnotes.standardnotes
