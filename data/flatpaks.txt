@@ -13,6 +13,7 @@ com.jeffser.Alpaca
 com.mattjakeman.ExtensionManager
 com.spotify.Client
 com.visualstudio.code
+de.swsnr.pictureoftheday
 fr.handbrake.ghb
 io.github.flattool.Warehouse
 io.github.nroduit.Weasis
