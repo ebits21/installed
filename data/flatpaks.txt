@@ -14,7 +14,6 @@ com.jeffser.Alpaca
 com.mattjakeman.ExtensionManager
 com.spotify.Client
 com.visualstudio.code
-dev.geopjr.Archives
 fr.handbrake.ghb
 io.github.dvlv.boxbuddyrs
 io.github.flattool.Warehouse
