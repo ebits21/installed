@@ -4,6 +4,7 @@ brew "atuin"
 brew "bash-preexec"
 brew "bat"
 brew "cloudflared"
+brew "libx11"
 brew "code-server", restart_service: :changed
 brew "direnv"
 brew "dysk"
