@@ -23,7 +23,7 @@ brew "ripgrep"
 brew "shellcheck"
 brew "stow"
 brew "superfile"
-brew "syncthing", restart_service: :changed
+brew "syncthing"
 brew "tealdeer"
 brew "television"
 brew "trash-cli"
