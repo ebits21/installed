@@ -20,6 +20,7 @@ io.github.dvlv.boxbuddyrs
 io.github.flattool.Warehouse
 io.github.nroduit.Weasis
 io.github.plrigaux.sysd-manager
+io.github.sepehr_rs.Sudoku
 io.gitlab.theevilskeleton.Upscaler
 io.podman_desktop.PodmanDesktop
 md.obsidian.Obsidian
