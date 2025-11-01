@@ -14,5 +14,4 @@ just-perfection-desktop@just-perfection
 launch-new-instance@gnome-shell-extensions.gcampax.github.com
 places-menu@gnome-shell-extensions.gcampax.github.com
 search-light@icedman.github.com
-tailscale@joaophi.github.com
 tilingshell@ferrarodomenico.com
