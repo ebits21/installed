@@ -18,6 +18,7 @@ com.visualstudio.code
 fr.handbrake.ghb
 io.github.dvlv.boxbuddyrs
 io.github.flattool.Warehouse
+io.github.kolunmi.Bazaar
 io.github.nroduit.Weasis
 io.github.plrigaux.sysd-manager
 io.github.sepehr_rs.Sudoku
