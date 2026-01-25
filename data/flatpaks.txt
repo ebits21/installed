@@ -67,3 +67,4 @@ org.qbittorrent.qBittorrent
 org.raspberrypi.rpi-imager
 org.standardnotes.standardnotes
 org.videolan.VLC
+org.zotero.Zotero
