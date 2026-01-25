@@ -7,6 +7,7 @@ BingWallpaper@ineffable-gmail.com
 blur-my-shell@aunetx
 caffeine@patapon.info
 CoverflowAltTab@palatis.blogspot.com
+dash-to-dock@micxgx.gmail.com
 drive-menu@gnome-shell-extensions.gcampax.github.com
 extension-list@tu.berry
 gsconnect@andyholmes.github.io
