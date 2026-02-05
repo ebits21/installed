@@ -28,6 +28,7 @@ io.podman_desktop.PodmanDesktop
 md.obsidian.Obsidian
 net.code_industry.MasterPDFEditor
 net.nokyan.Resources
+net.scribus.Scribus
 org.audacityteam.Audacity
 org.cryptomator.Cryptomator
 org.fedoraproject.MediaWriter
@@ -51,6 +52,7 @@ org.gnome.baobab
 org.gnome.clocks
 org.gnome.font-viewer
 org.gnucash.GnuCash
+org.inkscape.Inkscape
 org.kde.digikam
 org.kde.konversation
 org.kde.kpat
